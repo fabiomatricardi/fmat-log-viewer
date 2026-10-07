@@ -1,0 +1,9 @@
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+*.db-journal2
+node_modules/
+.DS_Store
+
+.opencode/
